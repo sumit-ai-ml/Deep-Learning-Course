@@ -1,4 +1,5 @@
 
+Hi 😃 welcome to the course 👻.
 In this course, we will study the basics of Deep Learning. Generally, in other courses, the rule is first theory and then practical. In this course, I will try to cover both parts simultaneously. We will follow the learning by doing approach.
 
 _This course is divided into the 5 lessons_: Every course will have one in-class coding assignment.  
