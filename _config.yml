@@ -1,9 +1,1 @@
-# basic options
-title: Deep Learning Course 
-author: ML shots
-email: sci.ml.shorts@gmail.com
-github_username:  sumit-ai-ml
-
-# Build settings
-markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
