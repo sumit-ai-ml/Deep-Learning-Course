@@ -1,8 +1,8 @@
 # basic options
-title: Deep Learning course website
-author: Sumit Pandey 
-email: sumit.ai.sci@gmail.com
-github_username:  Sumit-ai
+title: Deep Learning Course 
+author: ML shots
+email: sci.ml.shorts@gmail.com
+github_username:  sumit-ai-ml
 
 # Build settings
 markdown: kramdown
