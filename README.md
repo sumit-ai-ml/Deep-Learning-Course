@@ -17,10 +17,10 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 
 3. **Introduction to CNN (Convolutional Neural Network)**
-- Convolutional neural network (CNN).  [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
+- Convolutional neural network (CNN).  [![Open Lesson 3](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
 
 4. **Pixel wise classification: segmentation (UNet)**
-- UNet using tensorflow. [lesson 3 b](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
+- UNet using tensorflow. [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
 
 5. **Hyperparameter Tuning and Data Augmentation**
 - What are hyperparameters 
@@ -40,3 +40,4 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
 (`In this course we will use Jupyter Notebook in Google Colab environment. `)
+
