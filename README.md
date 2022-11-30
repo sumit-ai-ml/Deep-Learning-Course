@@ -14,7 +14,9 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 --------------------------------------------------------------
 2. **Regression and Classification using neural network**
 - Tensorflow, Pandas, Numpy. matplotlib (small introduction)
-- First model in Tensorflow. (`hello in tensorflow`) regression and classification. Please click here for Lesson 2 -> [![Open Lesson 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
+- First model in Tensorflow. (`hello in tensorflow`) regression and classification. Please click here for Lesson 2 -> [![Open Lesson 2](https://colab.research.google.com/assets/colab-badge.svg)]
+- Please click here for Lesson 2 -> [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 --------------------------------------------------------------
 3. **Introduction to CNN (Convolutional Neural Network)**
 - Convolutional neural network (CNN). Please click here for Lesson 3 -> [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
