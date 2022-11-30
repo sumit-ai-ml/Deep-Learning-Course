@@ -31,9 +31,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 
 6. **Transfer Learning and gradcam**
 - ResNet-50 and ResNet-25. [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_naovUBb9Gmavs-xjlWiu1RiNAZy76r?usp=sharing)
-
 - Layer visualization. [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10-6L4DGPflyO_BT5KSPKPrGjc70aWETm?usp=sharing)
-
 - Gradcam. [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/grad_cam.ipynb#scrollTo=ukGzvpJfxtax)
 
 7. **Simple App: Model Deployment using Gradio**
