@@ -9,17 +9,17 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 - Introduction to the IDE (Integrated Development Environment): Anaconda, **Google Colab** and Kaggle Environment. Please click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
 - Basic Python operations and funtions. 
 - Perceptron (Father of Artificial Neural Network or single Neuron): Theory and practical. 
-- [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
+- Please click here for Lesson 1 -> [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
 
 --------------------------------------------------------------
 2. **Regression and Classification using neural network**
 - Tensorflow, Pandas, Numpy. matplotlib (small introduction)
 - First model in Tensorflow. (`hello in tensorflow`) regression and classification 
-- [Lesson 2](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
+- Please click here for Lesson 2 -> [![Open Lesson 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 --------------------------------------------------------------
 3. **Introduction to CNN (Convolutional Neural Network)**
-- Convolutional neural network (CNN). 
-- [Lesson 3 a](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
+- Convolutional neural network (CNN).
+- Please click here for Lesson 3 -> [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
 --------------------------------------------------------------
 4. **Pixel wise classification: segmentation (UNet)**
 - UNet using tensorflow. 
@@ -29,7 +29,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 - What are hyperparameters 
 - How to tune your model 
 - Augmentation using tensorflow. 
-- [lesson 4](https://colab.research.google.com/drive/1JI-2hV3T2DSRbvSSx9qQLUbZzISo2PAw?usp=sharing)
+- Please click here for Lesson 4 ->[lesson 4](https://colab.research.google.com/drive/1JI-2hV3T2DSRbvSSx9qQLUbZzISo2PAw?usp=sharing)
 --------------------------------------------------------------
 6. **Transfer Learning and gradcam**
 - ResNet-50 and ResNet-25. 
