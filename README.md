@@ -17,8 +17,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 
 3. **Introduction to CNN (Convolutional Neural Network)**
-- Convolutional neural network (CNN).  
-[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
+- Convolutional neural network (CNN).  [![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
 
 4. **Pixel wise classification: segmentation (UNet)**
 - UNet using tensorflow. [lesson 3 b](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
