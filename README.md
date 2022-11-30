@@ -9,7 +9,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 - Introduction to the IDE (Integrated Development Environment): Anaconda, **Google Colab** and Kaggle Environment. Please click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
 - Basic Python operations and funtions. 
 - Perceptron (Father of Artificial Neural Network or single Neuron): Theory and practical. 
-- Please click here for Lesson 1 -> [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
+- Please click here for Lesson 1 -> [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
 
 --------------------------------------------------------------
 2. **Regression and Classification using neural network**
