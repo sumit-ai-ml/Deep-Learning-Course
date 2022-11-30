@@ -36,15 +36,19 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 - What are hyperparameters 
 - How to tune your model 
 - Augmentation using tensorflow. 
-- Please click here for Lesson 4 ->[lesson 4](https://colab.research.google.com/drive/1JI-2hV3T2DSRbvSSx9qQLUbZzISo2PAw?usp=sharing)
+[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JI-2hV3T2DSRbvSSx9qQLUbZzISo2PAw?usp=sharing)
 
 --------------------------------------------------------------
 
 6. **Transfer Learning and gradcam**
 - ResNet-50 and ResNet-25. 
-- [Lesson 5(a): ResNet 50](https://colab.research.google.com/drive/1C_naovUBb9Gmavs-xjlWiu1RiNAZy76r?usp=sharing)
-- [Lesson 5(b): layer visualization ](https://colab.research.google.com/drive/10-6L4DGPflyO_BT5KSPKPrGjc70aWETm?usp=sharing)
-- [gradcam](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/grad_cam.ipynb#scrollTo=ukGzvpJfxtax)
+[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_naovUBb9Gmavs-xjlWiu1RiNAZy76r?usp=sharing)
+
+- Layer visualization
+[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10-6L4DGPflyO_BT5KSPKPrGjc70aWETm?usp=sharing)
+
+- gradcam
+[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/grad_cam.ipynb#scrollTo=ukGzvpJfxtax)
 
 --------------------------------------------------------------
 
