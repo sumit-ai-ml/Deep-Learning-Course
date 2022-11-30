@@ -9,7 +9,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 - Introduction to the IDE (Integrated Development Environment): Anaconda, **Google Colab** and Kaggle Environment. Please click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
 - Basic Python operations and funtions. 
 - Perceptron (Father of Artificial Neural Network or single Neuron): Theory and practical. 
-- Please click here for Lesson 1 -> [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
+ [![Open Lesson 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mA6NDQjVKX5SU7a6n1uBXsX9QXtQjZzg?usp=sharing) 
 
 
 --------------------------------------------------------------
@@ -53,8 +53,9 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 --------------------------------------------------------------
 
 7. **Simple App: Model Deployment using Gradio**
-- [Lesson 5(c): Simple App](https://colab.research.google.com/drive/1B-_kWaaxGbRL1OKy29-lhghoB2tJ_Tws?usp=sharing)
 - How to deploy the model using Gradio library. 
+[![Open Lesson 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B-_kWaaxGbRL1OKy29-lhghoB2tJ_Tws?usp=sharing)
+
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
 (`In this course we will use Jupyter Notebook in Google Colab environment. `)
