@@ -1,6 +1,6 @@
 
 Hi 😃 welcome to the course 👻.
-In this course, we will study the basics of Deep Learning. Generally, in other courses, the rule is first theory and then practical. In this course, I will try to cover both parts simultaneously. We will follow the learning by doing approach and in final lecture we will build a simple Machine Learning web app using Gradio. 
+In this course, we will study the basics of Deep Learning. Generally, in other courses, the rule is first theory and then practical. In this course, I will try to cover both parts simultaneously. We will follow the learning by doing approach and in final lecture we will build a simple Machine Learning web app using **Gradio** as seen below. 
 
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="500" />
 
