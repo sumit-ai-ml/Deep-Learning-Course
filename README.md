@@ -18,6 +18,6 @@ In this lecture we will use Kaggle Environment Please click here: [![Open Lesson
 </div>
 
 <div style="background-color: #d8f3dc; padding: 10px;">
-    <p>This is a light green background.</p>
+   ## <p>This is a light green background.</p>
 </div>
 
