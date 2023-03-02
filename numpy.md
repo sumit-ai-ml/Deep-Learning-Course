@@ -1,7 +1,7 @@
 <p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Chapter At a Glance</p>
 
 <div style="background-color: #E0FFFF; padding: 10px;"><p>
-<div class="alert alert-block alert-danger" style="font-size:19px; font-family:verdana; line-height: 1.7em;">
+<div class="alert alert-block alert-danger" style="font-size:15px; font-family:verdana; line-height: 1.7em;">
      &nbsp;
 * <i> Understand Numpy.</i><br>
 * <i> Creating NumPy Arrays</i><br>
