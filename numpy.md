@@ -22,9 +22,9 @@
 
 <div style="background-color: #FFFAF0; padding: 10px;"><p>
  
-- Python library for creating N-Dimensional arrays. 
-- Ability to quickly broadcast functions. 
-- Biuilt-in Linear algebra, statistical capabilities. 
+- <i>Python library for creating N-Dimensional arrays.</i> 
+- <i>Ability to quickly broadcast functions. </i>
+- <i>Biuilt-in Linear algebra, statistical capabilities.</i> 
     
  
  </p> 
