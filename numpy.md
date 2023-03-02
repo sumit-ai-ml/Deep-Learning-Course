@@ -1,9 +1,9 @@
 <p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Chapter At a Glance</p>
 
+
+<div style="background-color: #d8f3dc; padding: 10px;"><p>
 <div class="alert alert-block alert-danger" style="font-size:19px; font-family:verdana; line-height: 1.7em;">
     📌 &nbsp;<b><u>Section Goals:</u></b><br>
-    
-
 * <i> Understand Numpy.</i><br>
 * <i> Creating NumPy Arrays</i><br>
 * <i> Retriving the information from a NumPy array.</i><br>
@@ -12,8 +12,21 @@
 * <i> Test the skills on Jupyter Notebooks</i><br> 
  
 </div>
+  </p></div>
 
-<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Numpy </p>
+
+<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. What is Numpy and why should we use it ? </p>
+
+
+
+
+
+
+
+
+
+
+
 
 <div style="background-color: #d8f3dc; padding: 10px;"><p>
  NumPy is a Python library that helps in performing mathematical operations on arrays and matrices efficiently. It is widely used in data science, machine learning, and scientific computing for its speed and convenience.
