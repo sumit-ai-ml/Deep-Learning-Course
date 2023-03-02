@@ -17,7 +17,5 @@ In this lecture we will use Kaggle Environment Please click here: [![Open Lesson
     <p>This is a green background.</p>
 </div>
 
-<div style="background-color: #d8f3dc; padding: 10px;">
-   ## <p>This is a light green background.</p>
-</div>
+## <div style="background-color: #d8f3dc; padding: 10px;"><p>This is a light green background.</p></div>
 
