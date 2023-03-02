@@ -1,7 +1,7 @@
-<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#FFFAF0; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Chapter At a Glance</p>
+<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Chapter At a Glance</p>
 
 
-<div style="background-color: #FFDAB9; padding: 10px;"><p>
+<div style="background-color: #E0FFFF; padding: 10px;"><p>
 <div class="alert alert-block alert-danger" style="font-size:19px; font-family:verdana; line-height: 1.7em;">
      &nbsp;<b><u></u></b><br>
 * <i> Understand Numpy.</i><br>
@@ -15,12 +15,12 @@
   </p></div>
 
 
-<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#FFFAF0; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. What is Numpy and why should we use it ? </p>
+<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. What is Numpy and why should we use it ? </p>
 
 
 
 
-<div style="background-color: #FFFAF0; padding: 10px;"><p>
+<div style="background-color: #E0FFFF; padding: 10px;"><p>
  
 - <i>Python library for creating N-Dimensional arrays.</i> 
 - <i>Ability to quickly broadcast functions. </i>
