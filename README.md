@@ -14,7 +14,7 @@ This course is divided into the 5 lessons: Every course will have one in-class c
 ## 1. Introduction of Deep Learning and Python Programming:
 
 In this lecture we will use Kaggle Environment Please click here: [![Open Lesson 3](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
-- Basic Python operations and funtions. [![Open Lesson 3](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/sumpandey/basic-python-operations/notebook)
+- Basic Python operations and funtions. [![Open Lesson 3]([https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/sumpandey/basic-python-operations/notebook](https://www.kaggle.com/code/sumpandey/00-numpy-arrays-ipynb?scriptVersionId=120831221))
 - Perceptron (Father of Artificial Neural Network or single Neuron): Theory and practical. [![Open Lesson 3](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)]()
  
 
