@@ -2,7 +2,7 @@
 
 <div style="background-color: #E0FFFF; padding: 10px;"><p>
 <div class="alert alert-block alert-danger" style="font-size:15px; font-family:verdana; line-height: 1.7em;">
-     &nbsp;
+
 * <i> Understand Numpy.</i><br>
 * <i> Creating NumPy Arrays</i><br>
 * <i> Retriving the information from a NumPy array.</i><br>
