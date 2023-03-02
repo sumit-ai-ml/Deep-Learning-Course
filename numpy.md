@@ -1,6 +1,6 @@
 <p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Numpy At a Glance</p>
 
-<div class="alert alert-block alert-info" style="font-size:19px; font-family:verdana; line-height: 1.7em;">
+<div class="alert alert-block alert-warning" style="font-size:19px; font-family:verdana; line-height: 1.7em;">
     📌 &nbsp;<b><u>Section Goals:</u></b><br>
     
 
@@ -10,9 +10,7 @@
 * <i> Learn Basic NumPy Operations</i><br> 
 * <i> Array Attributes and Methods </i><br> 
 * <i> Test the skills on Jupyter Notebooks</i><br> 
-
-    
-    
+ 
 </div>
 
 
