@@ -15,6 +15,6 @@ In this lecture we will use Kaggle Environment Please click here: [![Open Lesson
  
 
 
-## <div style="background-color: #d8f3dc; padding: 10px;"><p>This is a light green background.</p></div>
+<div style="background-color: #d8f3dc; padding: 10px;"><p>This is a light green background.</p></div>
 
 <p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">Notebook At a Glance</p>
