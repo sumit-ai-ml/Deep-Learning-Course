@@ -1,7 +1,9 @@
 <p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. Chapter At a Glance</p>
 
+
+
 <div style="background-color: #E0FFFF; padding: 10px;"><p>
-<div class="alert alert-block alert-danger" style="font-size:15px; font-family:verdana; line-height: 1.7em;">
+<div class="alert alert-block alert-danger" style="font-size:17px; font-family:verdana; line-height: 1.7em;">
 
 * <i> Understand Numpy.</i><br>
 * <i> Creating NumPy Arrays</i><br>
@@ -14,21 +16,30 @@
   </p></div>
 
 
-<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">1. What is Numpy and why should we use it ? </p>
 
-
-
+<p style="font-family:JetBrains Mono; font-weight:bold; letter-spacing: 2px; color:#006600; font-size:140%; text-align:left;padding: 0px; border-bottom: 3px solid #003300">2. What is Numpy and why should we use it ? </p>
 
 <div style="background-color: #E0FFFF; padding: 10px;"><p>
  
 - <i>Python library for creating N-Dimensional arrays.</i><br> 
 - <i>Ability to quickly broadcast functions. </i><br>
 - <i>Biuilt-in Linear algebra, statistical capabilities.</i> <br>
-    
- 
+     
  </p> 
 <p>NumPy is important because it provides an efficient and convenient way to work with large, multi-dimensional arrays and matrices in Python. This makes it a fundamental library for scientific computing, data analysis, and machine learning. NumPy also includes a vast collection of mathematical functions and tools for working with these arrays, which greatly simplifies complex numerical computations. Overall, NumPy is a powerful tool that enables faster and more efficient scientific computing with Python.  
   
   </p></div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
