@@ -6,11 +6,11 @@
 
 * <i> Understand Numpy.</i><br>
 * <i> Creating NumPy Arrays</i><br>
-* <i> Built-in Methods.</i><br>
-* <i> Random </i><br> 
+* <i> Retriving the information from a NumPy array.</i><br>
+* <i> Learn Basic NumPy Operations</i><br> 
 * <i> Array Attributes and Methods </i><br> 
-* <i> Reshape </i><br> 
-* <i> Shape </i><br> 
+* <i> Test the skills on Jupyter Notebooks</i><br> 
+
     
     
 </div>
