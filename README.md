@@ -38,7 +38,7 @@ This course introduces high school students to the fundamentals of practical art
 - Object detection and image recognition
 - Hands-on project on image classification. 
  
-# Week 8: Natural Language Processing (NLP) and ChatGPT
+### Week 8: Natural Language Processing (NLP) and ChatGPT
 - Introduction to NLP
 - Sentiment analysis project
 - How to use Chat GPT for ml/dl programming and building a project
@@ -49,7 +49,7 @@ This course introduces high school students to the fundamentals of practical art
 -   Data Collection or selection.
 -   Data Preprocessing.
 -   Building AI Model Training 
-- Presentations and demonstrations of final projects (if projects are uniques then there will be a possibility of paper submission to the journals)
+- **Presentations and demonstrations of final projects (if projects are uniques then there will be a possibility of paper submission to the journals)**
 
 ## Assessment
 - Weekly quizzes and assignments
