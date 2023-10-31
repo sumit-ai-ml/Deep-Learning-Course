@@ -1,3 +1,4 @@
+🌟 **Welcome to Our Introduction to Artifical Intelligence Course!** 🚀
 
 ## Course Duration
 3 Months (approximately 12 weeks)
