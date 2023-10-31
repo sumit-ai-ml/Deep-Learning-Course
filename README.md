@@ -1,4 +1,3 @@
-# Introduction to Practical Artificial Intelligence for High School Students
 
 ## Course Duration
 3 Months (approximately 12 weeks)
