@@ -43,9 +43,9 @@ This course spans twelve engaging weeks, each packed with hands-on coding activi
 - Deploy machine learning models using the Gradio library.
 - 📝 [Start Week 7](https://colab.research.google.com/drive/1B-_kWaaxGbRL1OKy29-lhghoB2tJ_Tws?usp=sharing)
 
-#### **Weeks 8-12: Research Paper Writing**
-- Focus on composing a comprehensive research paper for journal submission.
+#### **Weeks 8-12: AI Project and Paper Writing**
 - Apply learned concepts to investigate, analyze, and document findings.
+- Focus on composing a comprehensive research paper for journal submission (optional) 
 
 ### 🌐 Tools and Environment
 We'll harness the capabilities of Jupyter Notebooks in the Google Colab environment, ensuring an efficient and accessible learning platform.
