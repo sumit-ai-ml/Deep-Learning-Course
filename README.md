@@ -1,5 +1,3 @@
-Understood! Let's revise the course outline to keep Weeks 3 and 4 separate, each focusing on distinct topics within the realms of machine learning and its applications.
-
 🌟 **Welcome to Our Introduction to Artificial Intelligence Course!** 🚀
 
 ## Course Duration
